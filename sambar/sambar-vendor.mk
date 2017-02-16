@@ -385,6 +385,9 @@ PRODUCT_COPY_FILES += \
     vendor/yu/sambar/proprietary/vendor/lib/libubifocus.so:system/vendor/lib/libubifocus.so \
     vendor/yu/sambar/proprietary/vendor/lib/libvendorconn.so:system/vendor/lib/libvendorconn.so \
     vendor/yu/sambar/proprietary/vendor/lib/libwqe.so:system/vendor/lib/libwqe.so \
+    vendor/yu/sambar/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
+    vendor/yu/sambar/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
+    vendor/yu/sambar/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/yu/sambar/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/yu/sambar/proprietary/vendor/lib/libxtadapter.so:system/vendor/lib/libxtadapter.so \
     vendor/yu/sambar/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
